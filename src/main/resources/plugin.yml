@@ -1,0 +1,15 @@
+name: MobHunt
+author: Erik
+website: erikbigdev.github.io
+main: io.github.erikbigdev.mobhunt.MobHunt
+version: 1.0
+api-version: 1.16
+load: POSTWORLD
+
+commands:
+   mhstart:
+      description: Starts the game
+      usage: /mhstart
+   mhstop:
+      description: Stops the game?
+      usage: /mhstop
